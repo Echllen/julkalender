@@ -73,8 +73,8 @@ a:hover {
 }
 
 .flex-child:hover {
-    border-color: red;
-    color: red;
+    border-color: black;
+    color: black;
 
 }
 
