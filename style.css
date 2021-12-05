@@ -72,6 +72,14 @@ a:hover {
     border-width: 1px;
 }
 
+.riddle {
+    color: #cc2d3a;
+}
+
+.riddle:hover {
+    color: white;
+}
+
 .flex-child:hover {
     border-color: black;
     color: black;
